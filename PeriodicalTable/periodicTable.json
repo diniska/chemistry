@@ -1,15 +1,14 @@
-{
-	"table": [
+
 		{
 			"wiki": "http://en.wikipedia.org/wiki/Period%201%20element",
 			"elements": [
 				{
 					"group": "",
 					"position": 0,
-					"number": 1,
 					"name": "Hydrogen",
-					"molar": 1.00794,
+					"number": 1,
 					"small": "H",
+					"molar": 1.00794,
 					"electrons": [
 						1
 					]
@@ -17,10 +16,10 @@
 				{
 					"group": "Element Noble p",
 					"position": 17,
-					"number": 2,
 					"name": "Helium",
+					"number": 2,
+					"small": "H",
 					"molar": 4.002602,
-					"small": "He",
 					"electrons": [
 						2
 					]
@@ -1852,5 +1851,3 @@
 				3
 			]
 		}
-	]
-}
