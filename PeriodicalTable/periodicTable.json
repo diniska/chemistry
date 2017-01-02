@@ -1252,9 +1252,9 @@
 				{
 					"group": "Element Poor Boron p",
 					"position": 12,
-					"name": "Ununtrium",
+					"name": "Nihonium",
 					"number": 113,
-					"small": "Uut",
+					"small": "Nh",
 					"molar": 284,
 					"electrons": [
 						2,
@@ -1286,9 +1286,9 @@
 				{
 					"group": "Element Poor Pnictogen p",
 					"position": 14,
-					"name": "Ununpentium",
+					"name": "Moscovium",
 					"number": 115,
-					"small": "Uup",
+					"small": "Mc",
 					"molar": 288,
 					"electrons": [
 						2,
@@ -1320,9 +1320,9 @@
 				{
 					"group": "Element Halogen p",
 					"position": 16,
-					"name": "Ununseptium",
+					"name": "Tennessine",
 					"number": 117,
-					"small": "Uus",
+					"small": "Ts",
 					"molar": 294,
 					"electrons": [
 						2,
@@ -1337,9 +1337,9 @@
 				{
 					"group": "Element Noble p",
 					"position": 17,
-					"name": "Ununoctium",
+					"name": "Oganesson",
 					"number": 118,
-					"small": "Uuo",
+					"small": "Og",
 					"molar": 294,
 					"electrons": [
 						2,
