@@ -34,9 +34,29 @@
 		"dodecane" : "Dodecane",
 		"icosane" : "Эйкозан",
 		"triacontane" : "Triacontane",
-		"melting_point" : "Температура плавления (oC)",
-		"boiling_point" : "Температура кипения (oC)",
-		"state_at_25" : "Состояние при 25oC",
+		"melting_point" : "Температура плавления (°C)",
+		"boiling_point" : "Температура кипения (°C)",
+		"state_at_25" : "Состояние при 25 °C",
 		"saturatedHydrocarbons": "Предельные углеводороды"
+	},
+	"de": {
+		"methane": "Methan",
+		"ethane" : "Ethan",
+		"propane" : "Propan",
+		"butane" : "Butan",
+		"pentane" : "Pentan",
+		"hexane" : "Hexan",
+		"heptane" : "Heptan",
+		"octane" : "Octan",
+		"nonane" : "Nonan",
+		"decane" : "Decan",
+		"undecane" : "Undecan",
+		"dodecane" : "Dodecan",
+		"icosane" : "Eicosan",
+		"triacontane" : "Triacontan",
+		"melting_point" : "Schmelzpunkt (°C)",
+		"boiling_point" : "Siedepunkt (°C)",
+		"state_at_25" : "Aggregatzustand bei 25 °C",
+		"saturatedHydrocarbons": "Gesättigte Kohlenwasserstoffe"
 	}
 }
